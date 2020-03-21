@@ -12,7 +12,7 @@ Personal Information which is shared and need update
 - Bank Details
 - Driver's license details
 - PAN Card Details
-- Any many more things
+- And many more things
 
 Login to the system using OAuth
 
