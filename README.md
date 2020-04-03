@@ -1,5 +1,4 @@
-# pi-spider
-Personal Information Spider
+# Personal Information Spider (pi-spider)
 
 Store your personal identifiable information at single location and "Update" it confortably - No sweat whatsoever. You are the sole owner of your information and share it with 3rd Party in most reliable and transparent way. 
 
